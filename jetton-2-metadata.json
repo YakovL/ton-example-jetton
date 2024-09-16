@@ -1,0 +1,7 @@
+{
+    "name": "Sample Jetton 2",
+    "description": "For testing purposes",
+    "symbol": "JTN2",
+    "decimals": 3,
+    "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+}
