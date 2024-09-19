@@ -1,0 +1,7 @@
+{
+    "name": "Sample Jetton 3",
+    "description": "For testing purposes (pool should provide getters)",
+    "symbol": "JTN3",
+    "decimals": 3,
+    "image": "https://www.svgrepo.com/download/483336/coin-vector.svg"
+}
